@@ -1,9 +1,5 @@
 # SQL-Tutorial
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 
 This is a list of the solutions for the sqlzoo.net - SQL Tutorial - on Sections 0 to 9.  
 
